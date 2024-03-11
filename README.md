@@ -1,4 +1,4 @@
-- professional problem solver 🤙
+- professional problem solver 
 
 <!---
 DuckWithDrip/DuckWithDrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
